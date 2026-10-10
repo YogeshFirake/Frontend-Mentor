@@ -1,0 +1,11 @@
+{
+  "name": "hotel-booking",
+  "version": "1.0.0",
+  "description": "Hotel booking confirmation page",
+  "scripts": {
+    "format": "prettier --write ."
+  },
+  "devDependencies": {
+    "prettier": "^3.0.0"
+  }
+}
